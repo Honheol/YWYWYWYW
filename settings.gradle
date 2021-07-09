@@ -1,0 +1,2 @@
+rootProject.name = "YW21"
+include ':app'
